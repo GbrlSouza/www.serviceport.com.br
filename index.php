@@ -8,8 +8,7 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
-      class="btn btn-primary"
-    <p><a class="link-opacity-100-hover btn btn-primary" href="./pages/home/page.php">Link hover opacity 100</a></p>
+    <p><a class="link-opacity-100-hover btn btn-primary" href="./pages/home/page.php">Ver Site</a></p>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>
