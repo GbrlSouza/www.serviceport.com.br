@@ -1,0 +1,45 @@
+/* index */
+
+.init {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+/* header */
+
+.header .logo {
+    width: 15rem;
+}
+
+.header .nav.nav-pills {
+    align-items: center;
+}
+
+.header ul>li>a {
+    color: #333;
+}
+
+.header ul>li>a:hover {
+    color: #009A3D;
+}
+
+.header ul>li>a.nav-link.active {
+    background: #009A3D;
+}
+
+/* footer */
+
+.footer {
+    color: #fff;
+    background: #009A3D;
+}
+
+.footer .logo {
+    width: 60%;
+}
+
+.footer ul>li>a {
+    color: #fff !important;
+}
